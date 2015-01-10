@@ -18,6 +18,7 @@ public class Robot extends IterativeRobot {
     public void robotInit() {
       System.out.println("test");
       System.out.println("TEST");
+      System.out.println("Meow (>^-^<)");
     }
 
     /**
